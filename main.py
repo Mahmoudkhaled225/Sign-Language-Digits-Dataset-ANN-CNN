@@ -1,3 +1,9 @@
+"""
+1-Mohamed Ibrahim Shawky 20198068
+2-mahmoud Khaled Helmy 20188045
+3-mohamed hamada 20188041
+4- Ghada Mamdouh Ahmed 20198063
+"""
 import keras
 from keras.utils import  to_categorical
 from PIL import Image, ImageStat
