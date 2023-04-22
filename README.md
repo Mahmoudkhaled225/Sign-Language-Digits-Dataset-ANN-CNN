@@ -8,4 +8,4 @@ main.py file got all the code i wrote to solve the problem which include :</br>
 1 - SVM model <br>
 1 - CNN model<br>
 
-and report file is the documntation file for all step i took with accuries of all models
+and report.pdf file is the documntation file for all step i took with accuries of all models
